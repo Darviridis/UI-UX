@@ -25,3 +25,5 @@ https://component.gallery/design-systems/
 http://designsystemsclub.ru/
 
 https://designstrategy.guide/design-management/the-ultimate-design-systems-resources-list/
+
+https://www.figma.com/community/file/1380452603479283689/epam-uui-v6-3-3
