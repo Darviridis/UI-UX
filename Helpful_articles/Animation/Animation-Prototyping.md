@@ -22,3 +22,6 @@ https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5 en
 
 ### How to Update Two Components Simultaneously in a Figma Prototype
 https://medium.design/how-to-update-two-components-simultaneously-in-a-figma-prototype-9d73729c86db en
+
+### Effective Prototyping in Figma
+https://dzen.ru/a/ZuQsthxXVzzkv-aJ
