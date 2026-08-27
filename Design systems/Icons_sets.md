@@ -1,14 +1,14 @@
 Icon
-→ hicon.me
-→ iconoir.com
-→ boxicons.com
-→ mingcute.com
-→ tabler-icons.io
-→ remixicon.com
-→ teenyicons.com
-→ icons.download
-→ feathericons.com
-→ phosphoricons.com
-→ supercons.vercel.app
-→ atlasicons.vectopus.com
-→ iconpark.oceanengine.com
+https://hicon.me
+https://iconoir.com
+https://boxicons.com
+https://mingcute.com
+https://tabler-icons.io
+https://remixicon.com
+https://teenyicons.com
+https://icons.download
+https://feathericons.com
+https://phosphoricons.com
+https://supercons.vercel.app
+https://atlasicons.vectopus.com
+https://iconpark.oceanengine.com
