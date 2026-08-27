@@ -17,3 +17,11 @@ https://component.gallery/
 https://storybook.js.org/showcase/projects
 
 https://www.designsystemsclub.ru/
+
+https://www.designsystems.com/open-design-systems/
+
+https://component.gallery/design-systems/
+
+http://designsystemsclub.ru/
+
+https://designstrategy.guide/design-management/the-ultimate-design-systems-resources-list/
