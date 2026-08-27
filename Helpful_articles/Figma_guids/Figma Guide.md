@@ -9,3 +9,7 @@ https://vc.ru/design/1828042-ultimativnyi-gaid-po-animacii-v-figma-rezhim-protot
 https://www.figma.com/blog/10-lessons-from-an-engineering-manager/ en 
 
 https://habr.com/ru/articles/913120/ ru
+
+### Figma Grids
+
+https://www.uprock.ru/articles/novaya-funkciya-grid-v-figma-razbiraemsya-kak-ona-rabotaet ru
