@@ -12,4 +12,4 @@ https://ux-marafon.ru/blog/Kak-proveryat-tekst-bez-issledovanij/ ru
 
 https://habr.com/ru/articles/804199/ ru
 
-https://dsgners.ru/tipografika/5157-shpargalka-vosem-pravil-tipografiki-kotoryie-spasut-lyuboy-tekst?utm_source=tlgrm_uxhorn ru
+https://dsgners.ru/tipografika/5157-shpargalka-vosem-pravil-tipografiki-kotoryie-spasut-lyuboy-tekst ru
