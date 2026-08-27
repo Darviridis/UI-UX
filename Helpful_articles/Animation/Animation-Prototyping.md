@@ -1,5 +1,4 @@
-### Animations/Prototyping
-https://medium.com/design-pub/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B2-figma-work-smarter-not-harder-3ced8a0cf69 ru
+## Animations
 
 ### Disney’s 12 principles of animation, exemplified in UX design
 https://uxdesign.cc/disneys-12-principles-of-animation-exemplified-in-ux-design-5cc7e3dc3f75 en
@@ -12,6 +11,11 @@ https://www.toptal.com/designers/ux/motion-design-principles#:~:text=Motion%20de
 
 ### Microinteractions: The Secret of Great App Design
 https://uxplanet.org/microinteractions-the-secret-to-great-app-design-4cfe70fbaccf en
+
+
+## Prototyping
+
+https://medium.com/design-pub/%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D1%82%D0%B8%D0%BF%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B2-figma-work-smarter-not-harder-3ced8a0cf69 ru
 
 ### Good to great UI animation tips
 https://uxdesign.cc/good-to-great-ui-animation-tips-7850805c12e5 en
