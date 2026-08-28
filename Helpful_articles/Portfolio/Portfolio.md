@@ -3,3 +3,6 @@ https://vc.ru/u/160698-evgeny-bondkowski/554701-kak-raskrutit-portfolio-dizayner
 
 ### How to Build a Strong Portfolio as a Product Designer
 https://setka.ru/posts/01954110-7889-4f63-9827-a71abeac8311 ru
+
+### What's inside a product and UX/UI designer's portfolio?
+https://vc.ru/design/2941800-analiz-portfoliio-produktovyh-i-ux-ui-dizajnerov
