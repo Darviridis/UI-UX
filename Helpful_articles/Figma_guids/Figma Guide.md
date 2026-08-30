@@ -13,3 +13,7 @@ https://habr.com/ru/articles/913120/ ru
 ### Figma Grids
 
 https://www.uprock.ru/articles/novaya-funkciya-grid-v-figma-razbiraemsya-kak-ona-rabotaet ru
+
+### Slots
+
+https://www.figma.com/blog/supercharge-your-design-system-with-slots/ en
