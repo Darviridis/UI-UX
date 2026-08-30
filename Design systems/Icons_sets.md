@@ -24,3 +24,5 @@ https://supercons.vercel.app
 https://atlasicons.vectopus.com
 
 https://iconpark.oceanengine.com
+
+https://www.figma.com/community/icons?resource_type=files
