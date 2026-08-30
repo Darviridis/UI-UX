@@ -2,7 +2,7 @@ https://www.figma.com/community/ui-kits?resource_type=files&editor_type=figma
 
 https://www.figma.com/design/BZO1qn9McEO56E4jx8u0s2/iOS-and-iPadOS-26--Community-?node-id=0-3329&p=f&t=yyF8oDThZRh15ggM-0
 
-IBM Technical Diagram Library https://www.figma.com/community/file/1357349659332429930/ibm-technical-diagram-library-documentation-and-tech-content
+https://www.figma.com/community/file/1357349659332429930/ibm-technical-diagram-library-documentation-and-tech-content
 
 https://thorin.ens.domains/components/atoms/Avatar
 
