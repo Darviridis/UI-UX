@@ -18,3 +18,6 @@ https://help.figma.com/hc/en-us/articles/35440096186007-Use-verified-partner-MCP
 
 ### Get started with Make kits
 https://help.figma.com/hc/en-us/articles/39241689698839-Get-started-with-Make-kits 
+
+### Figma Make, now on your local code
+https://www.figma.com/blog/figma-make-now-on-your-local-code/
