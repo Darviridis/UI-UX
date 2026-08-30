@@ -9,3 +9,6 @@ https://developers.figma.com/docs/code-connect/code-connect-ui-setup/
 
 ### Agents, meet the Figma canvas
 https://www.figma.com/blog/the-figma-canvas-is-now-open-to-agents/
+
+### 4 ways we’re using our MCP server at Figma
+https://www.figma.com/blog/4-ways-were-using-our-mcp-server-at-figma/
