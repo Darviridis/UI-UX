@@ -29,3 +29,15 @@ http://designsystemsclub.ru/
 https://designstrategy.guide/design-management/the-ultimate-design-systems-resources-list/
 
 https://www.figma.com/community/file/1380452603479283689/epam-uui-v6-3-3
+
+### AI ready
+
+https://astryx.atmeta.com
+
+https://atlassian.design/llms.txt
+
+https://design.cms.gov/llms.txt
+
+https://carbondesignsystem.com/llms.txt
+
+https://nordhealth.design/docs/developer/working-with-ai/
