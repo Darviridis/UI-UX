@@ -15,3 +15,6 @@ https://help.figma.com/hc/en-us/articles/35463818346647-Push-from-Figma-Make-to-
 
 ### Use verified partner MCP connectors with the Figma agent and Figma Make
 https://help.figma.com/hc/en-us/articles/35440096186007-Use-verified-partner-MCP-connectors-with-the-Figma-agent-and-Figma-Make
+
+### Get started with Make kits
+https://help.figma.com/hc/en-us/articles/39241689698839-Get-started-with-Make-kits 
