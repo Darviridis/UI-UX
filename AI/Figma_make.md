@@ -6,3 +6,6 @@ https://learn.thedesignsystem.guide/p/figma-make-wont-work-until-you-do
 
 ### 6 winning Figma Makes—and what you can learn from them
 https://www.figma.com/blog/6-winning-figma-makes-and-what-you-can-learn-from-them/
+
+### Figma Make, now on your local code
+https://www.figma.com/blog/figma-make-now-on-your-local-code/
