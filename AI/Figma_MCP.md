@@ -6,3 +6,6 @@ https://help.figma.com/hc/en-us/articles/40219873508247-Workflow-lab-Code-to-can
 
 ### Getting Started with Code Connect UI
 https://developers.figma.com/docs/code-connect/code-connect-ui-setup/
+
+### Agents, meet the Figma canvas
+https://www.figma.com/blog/the-figma-canvas-is-now-open-to-agents/
