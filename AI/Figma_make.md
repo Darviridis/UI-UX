@@ -12,3 +12,6 @@ https://www.figma.com/blog/figma-make-now-on-your-local-code/
 
 ### Push from Figma Make to GitHub
 https://help.figma.com/hc/en-us/articles/35463818346647-Push-from-Figma-Make-to-GitHub 
+
+### Use verified partner MCP connectors with the Figma agent and Figma Make
+https://help.figma.com/hc/en-us/articles/35440096186007-Use-verified-partner-MCP-connectors-with-the-Figma-agent-and-Figma-Make
