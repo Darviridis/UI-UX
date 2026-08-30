@@ -24,3 +24,6 @@ https://www.figma.com/blog/figma-make-now-on-your-local-code/
 
 ### Custom skills for the Figma agent and Figma Make
 https://help.figma.com/hc/en-us/articles/40283639496599-Custom-skills-for-the-Figma-agent-and-Figma-Make
+
+### Code on the Figma canvas
+https://www.figma.com/blog/code-on-the-figma-canvas/
