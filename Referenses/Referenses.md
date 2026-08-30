@@ -143,6 +143,8 @@ https://www.raycast.com
 
 https://phantom.com
 
+https://www.details.so/inspo
+
 
 ### Mobile
 
