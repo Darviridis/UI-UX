@@ -1,0 +1,5 @@
+### Expose your design system to LLMs
+https://hvpandya.com/llm-design-systems
+
+### Building AI-driven workflows
+https://uxdesign.cc/designing-with-claude-code-and-codex-cli-building-ai-driven-workflows-powered-by-code-connect-ui-f10c136ec11f
