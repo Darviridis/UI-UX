@@ -9,3 +9,6 @@ https://www.figma.com/blog/6-winning-figma-makes-and-what-you-can-learn-from-the
 
 ### Figma Make, now on your local code
 https://www.figma.com/blog/figma-make-now-on-your-local-code/
+
+### Push from Figma Make to GitHub
+https://help.figma.com/hc/en-us/articles/35463818346647-Push-from-Figma-Make-to-GitHub 
