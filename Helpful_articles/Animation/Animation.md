@@ -12,4 +12,7 @@ https://www.toptal.com/designers/ux/motion-design-principles#:~:text=Motion%20de
 ### Microinteractions: The Secret of Great App Design
 https://uxplanet.org/microinteractions-the-secret-to-great-app-design-4cfe70fbaccf en
 
+### Seven simple ideas you can use to improve your animations today
+https://emilkowal.ski/ui/7-practical-animation-tips 
+
 
