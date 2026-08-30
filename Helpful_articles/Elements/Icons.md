@@ -6,3 +6,6 @@ https://blog.streamlinehq.com/evaluating-icons/ en
 
 ### How to tame icons in a design system and beyond?
 https://vc.ru/design/1775593-kak-priruchit-ikonki-v-dizain-sisteme-i-ne-tolko ru
+
+### Managing icon component sizes 
+https://www.alicepackarddesign.com/blog/managing-icon-component-sizes en
