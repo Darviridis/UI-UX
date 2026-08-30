@@ -12,3 +12,6 @@ https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-a
 
 ###  The accidental tyranny of user interfaces
 https://uxdesign.cc/the-accidental-tyranny-of-user-interfaces-eef15dc555a0 en
+
+### The Strategic Role of UX in Scientific Software: Why 2026 Is the Year Design Becomes Non-Negotiable 
+https://lab.interface-design.co.uk/the-strategic-role-of-ux-in-scientific-software-why-2026-is-the-year-design-becomes-non-negotiable-bd87fb963395
