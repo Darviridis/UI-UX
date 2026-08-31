@@ -27,4 +27,6 @@ https://www.figma.com/community/skill/61009/analyze-components
 
 https://www.figma.com/community/skill/65614/design-system-gen
 
+https://github.com/jakubkrehel/skills
+
 
