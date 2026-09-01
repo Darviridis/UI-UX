@@ -9,3 +9,14 @@ https://designsystemsforai.com
 
 ### Spec-Driven UI Component Development
 https://nathanacurtis.substack.com/p/spec-driven-ui-component-development
+
+### Component Contracts and Schemas
+https://nathanacurtis.substack.com/p/component-contracts-and-schemas
+
+### Design system contracts: the component lives in neither Figma nor code
+https://christinevallaure.substack.com/p/design-system-contracts-the-component
+
+### Design systems are contracts, not libraries
+https://www.giorris.dev/thoughts/design-systems-are-contracts-not-libraries
+
+
