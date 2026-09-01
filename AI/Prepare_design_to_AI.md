@@ -6,3 +6,6 @@ https://uxdesign.cc/designing-with-claude-code-and-codex-cli-building-ai-driven-
 
 ### Your design system has been lying to you
 https://designsystemsforai.com
+
+### Spec-Driven UI Component Development
+https://nathanacurtis.substack.com/p/spec-driven-ui-component-development
