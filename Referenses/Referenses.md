@@ -145,6 +145,7 @@ https://phantom.com
 
 https://www.details.so/inspo
 
+https://design.fish/
 
 ### Mobile
 
@@ -159,3 +160,5 @@ https://scrnshts.club
 https://www.theappfuel.com
 
 https://screenshotcreator.com
+
+
