@@ -36,6 +36,8 @@ https://astryx.atmeta.com
 
 https://atlassian.design/llms.txt
 
+https://state-of-ai-in-design-systems.netlify.app
+
 https://design.cms.gov/llms.txt
 
 https://carbondesignsystem.com/llms.txt
