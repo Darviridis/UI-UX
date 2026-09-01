@@ -25,4 +25,6 @@ https://www.figma.com/blog/figma-make-now-on-your-local-code/
 ### Custom skills for the Figma agent and Figma Make
 https://help.figma.com/hc/en-us/articles/40283639496599-Custom-skills-for-the-Figma-agent-and-Figma-Make
 
+### Workflow lab: Deploying designs directly with Figma Make
+https://www.figma.com/blog/workflow-lab-deploying-designs-directly-with-figma-make/
 
