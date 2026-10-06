@@ -19,4 +19,7 @@ https://christinevallaure.substack.com/p/design-system-contracts-the-component
 ### Design systems are contracts, not libraries
 https://www.giorris.dev/thoughts/design-systems-are-contracts-not-libraries
 
+### Building design system components with agent teams
+https://www.kaelig.fr/design-system-components-with-ai-agent-teams/?ref=blog.murphytrueman.com
+
 
