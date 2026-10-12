@@ -49,7 +49,14 @@ My notes:
 2. Create tokens for colors, texts, spacings
 3. Create spec files: design.md, tokens.json, components (yaml), assets (svg)
 4. Create primitives.css и semantic.css
+5. Code Connect
+6. Built a React + Vite codebase, structured around three core folders:
+- styles: with primitives.css, semantic.css, and components.css
+- components: where each component included its .tsx, .stories.tsx, and .css file
+- pages: a directory used for testing prototypes
+
 After code
+
 1. Add a code syntax in Figma
 2. Write a script to audit
 
