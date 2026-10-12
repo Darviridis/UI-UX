@@ -43,5 +43,11 @@ https://uxdesign.cc/the-call-for-an-agentic-standard-we-need-to-stop-shipping-th
 ### How to Make Your Design System Agent-Ready
 https://medium.com/design-bootcamp/how-to-make-your-design-system-agent-ready-ea4cfc062270
 
+My notes:
+
+1. Create tokens for colors and spacings
+2. Create spec files
+
+
 
 
