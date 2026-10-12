@@ -45,8 +45,13 @@ https://medium.com/design-bootcamp/how-to-make-your-design-system-agent-ready-ea
 
 My notes:
 
-1. Create tokens for colors and spacings
-2. Create spec files
+1. Preparing and organizing the Figma file
+2. Create tokens for colors and spacings
+3. Create spec files
+4. Create primitives.css и semantic.css
+After code
+1. Add a code syntax in Figma
+2. Write a script to audit
 
 
 
