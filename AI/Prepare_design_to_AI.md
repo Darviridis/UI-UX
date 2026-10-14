@@ -47,12 +47,13 @@ My notes:
 
 1. Preparing and organizing the Figma file
 2. Create tokens for colors, typography, spacings, radius
-3. Create spec files: design.md, tokens.json, components (yaml), assets (svg)
-4. Create metadata docs for components (docs.yaml)
-5. Create JSON files with schema validation
-6. Create primitives.css и semantic.css
-7. Code Connect
-8. Built a React + Vite codebase, structured around three core folders:
+3. Publish library
+4. Create spec files: design.md, tokens.json, components (yaml), assets (svg)
+5. Create metadata docs for components (docs.yaml)
+6. Create JSON files with schema validation
+7. Create primitives.css и semantic.css
+8. Code Connect
+9. Built a React + Vite codebase, structured around three core folders:
 - styles: with primitives.css, semantic.css, and components.css
 - components: where each component included its .tsx, .stories.tsx, and .css file
 - pages: a directory used for testing prototypes
