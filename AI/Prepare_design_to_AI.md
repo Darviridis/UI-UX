@@ -46,17 +46,18 @@ https://medium.com/design-bootcamp/how-to-make-your-design-system-agent-ready-ea
 My notes:
 
 1. Preparing and organizing the Figma file
-2. Create tokens for colors, typography, spacings, radius
-3. Publish library
-4. Create spec files: design.md, tokens.json, components (yaml), assets (svg)
-5. Create metadata docs for components (docs.yaml)
-6. Create JSON files with schema validation
-7. Create code examples
-8. Design decisions are documented with rationale (I skip it for now)
-9. Create llms.txt
-10. Create primitives.css и semantic.css
-11. Code Connect
-12. Built a React + Vite codebase, structured around three core folders:
+2. Components have consistent naming conventions (check)
+3. Create tokens for colors, typography, spacings, radius
+4. Publish library
+5. Create spec files: design.md, tokens.json, components (yaml), assets (svg)
+6. Create metadata docs for components (docs.yaml)
+7. Create JSON files with schema validation
+8. Create code examples
+9. Design decisions are documented with rationale (I skip it for now)
+10. Create llms.txt
+11. Create primitives.css и semantic.css
+12. Code Connect
+13. Built a React + Vite codebase, structured around three core folders:
 - styles: with primitives.css, semantic.css, and components.css
 - components: where each component included its .tsx, .stories.tsx, and .css file
 - pages: a directory used for testing prototypes
