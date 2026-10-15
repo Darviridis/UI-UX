@@ -53,9 +53,10 @@ My notes:
 6. Create JSON files with schema validation
 7. Create code examples
 8. Design decisions are documented with rationale (I skip it for now)
-9. Create primitives.css и semantic.css
-10. Code Connect
-11. Built a React + Vite codebase, structured around three core folders:
+9. Create llms.txt
+10. Create primitives.css и semantic.css
+11. Code Connect
+12. Built a React + Vite codebase, structured around three core folders:
 - styles: with primitives.css, semantic.css, and components.css
 - components: where each component included its .tsx, .stories.tsx, and .css file
 - pages: a directory used for testing prototypes
