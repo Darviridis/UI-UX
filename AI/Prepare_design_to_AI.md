@@ -51,9 +51,10 @@ My notes:
 4. Create spec files: design.md, tokens.json, components (yaml), assets (svg)
 5. Create metadata docs for components (docs.yaml)
 6. Create JSON files with schema validation
-7. Create primitives.css и semantic.css
-8. Code Connect
-9. Built a React + Vite codebase, structured around three core folders:
+7. Create code examples
+8. Create primitives.css и semantic.css
+9. Code Connect
+10. Built a React + Vite codebase, structured around three core folders:
 - styles: with primitives.css, semantic.css, and components.css
 - components: where each component included its .tsx, .stories.tsx, and .css file
 - pages: a directory used for testing prototypes
