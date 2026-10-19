@@ -50,15 +50,16 @@ My notes:
 3. Props and variants follow semantic patterns
 4. Create tokens for colors, typography, spacings, radius (Token architecture is three-tier minimum)
 5. Publish library
-6. Create spec files: design.md, tokens.json, components (yaml), assets (svg)
-7. Create metadata docs for components (docs.yaml)
-8. Create JSON files with schema validation
-9. Create code examples
-10. Design decisions are documented with rationale (I skip it for now)
-11. Create llms.txt
-12. Create primitives.css и semantic.css
-13. Code Connect
-14. Built a React + Vite codebase, structured around three core folders:
+6. Create spec files: design.md, tokens.json, components (yaml - Spec2), assets (svg), agents.md
+7. Change your hex to tokens in yaml
+8. Create metadata docs for components (docs.yaml)
+9. Create JSON files with schema validation
+10. Create code examples
+11. Design decisions are documented with rationale (I skip it for now)
+12. Create llms.txt
+13. Create primitives.css и semantic.css
+14. Code Connect
+15. Built a React + Vite codebase, structured around three core folders:
 - styles: with primitives.css, semantic.css, and components.css
 - components: where each component included its .tsx, .stories.tsx, and .css file
 - pages: a directory used for testing prototypes
