@@ -16,9 +16,6 @@ https://nathanacurtis.substack.com/p/component-contracts-and-schemas
 ### What Component Specs Leave Behind
 https://nathanacurtis.substack.com/p/what-component-specs-leave-behind
 
-### Generating Code from Figma via Specs
-https://nathanacurtis.substack.com/p/generating-code-from-specs
-
 ### Design System Conventions in Figma
 https://nathanacurtis.substack.com/p/design-system-conventions-in-figma
 
