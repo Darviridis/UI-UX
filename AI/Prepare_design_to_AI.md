@@ -28,9 +28,6 @@ https://www.giorris.dev/thoughts/design-systems-are-contracts-not-libraries
 ### Building design system components with agent teams
 https://www.kaelig.fr/design-system-components-with-ai-agent-teams/?ref=blog.murphytrueman.com
 
-### How Coinbase Used Code Connect to Guide Agents and Shrink Token Costs
-https://www.figma.com/blog/how-coinbase-used-code-connect-to-shrink-token-costs/
-
 ### You Don't Have a Design System
 https://mattrothenberg.com/notes/you-dont-have-a-design-system/
 
@@ -39,34 +36,4 @@ https://uxdesign.cc/the-call-for-an-agentic-standard-we-need-to-stop-shipping-th
 
 ### How to Make Your Design System Agent-Ready
 https://medium.com/design-bootcamp/how-to-make-your-design-system-agent-ready-ea4cfc062270
-
-My notes:
-
-1. Preparing and organizing the Figma file
-2. Components have consistent naming conventions (check)
-3. Props and variants follow semantic patterns
-4. Create tokens for colors, typography, spacings, radius (Token architecture is three-tier minimum)
-5. Publish library
-6. Create spec files: design.md, tokens.json, components (yaml - Spec2), assets (svg), agents.md
-7. Change your hex ang raw data to tokens in yaml
-8. Create metadata docs for components (docs.yaml)
-9. Component composition is explicit ( in docs. yaml)
-10. Create JSON files with schema validation
-11. Create code examples
-12. Design decisions are documented with rationale (I skip it for now)
-13. Create llms.txt
-14. Create primitives.css и semantic.css
-15. Code Connect
-16. Built a React + Vite codebase, structured around three core folders:
-- styles: with primitives.css, semantic.css, and components.css
-- components: where each component included its .tsx, .stories.tsx, and .css file
-- pages: a directory used for testing prototypes
-
-After code
-
-1. Add a code syntax in Figma
-2. Write a script to audit
-
-
-
 
